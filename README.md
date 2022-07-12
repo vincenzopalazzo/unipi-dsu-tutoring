@@ -1,5 +1,8 @@
 # unipi-dsu-tutoring
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d6b39f8c-5aa1-4a8b-8487-05e55d49f7bf/deploy-status)](https://app.netlify.com/sites/tutoring-dsa/deploys)
+
+
 ## Table of Content
 
 - Introduction
