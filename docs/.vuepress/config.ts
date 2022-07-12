@@ -14,6 +14,18 @@ export default defineUserConfig({
         text: 'Home',
         link: '/',
       },
+      {
+        text: "Tools Available",
+        link: "/tools"
+      },
+      {
+        text: "Tutor Contact",
+        link: "/tutor_contact"
+      },
+      {
+        text: "University Contact",
+        link: '/university_contact'
+      },
     ],
     plugins: {
       mdEnhance: {
