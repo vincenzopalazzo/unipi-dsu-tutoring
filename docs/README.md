@@ -1,27 +1,26 @@
 <div align="center">
-  <h1> DSA Computer Scienze Tutoring </h1>
+  <h1> Tutorato DSA Informatica </h1>
 
   <img src="https://study-eu.s3.amazonaws.com/uploads/university/university-of-pisa-logo.png" />
 
   <p>
-    <strong> Computer Scienze DSA Support </strong>
+    <strong> Supporto DSA Informatica</strong>
   </p>
 </div>
 
-## Table of Content
+## Contenuti
 
-- Introduction
-- DSA tools
-- Stay in Contact
-- [Tutor Reference](/tutor_contact/README.md)
-- [University Reference](/university_contact/README.md)
-- Common Question
+- Introduzione
+- Strumenti DSA
+- Rimani in contatto
+- [Contatta un Tutor](/tutor_contact/README.md)
+- [Contatta l'Università](/university_contact/README.md)
+- Domande frequenti 
 
-## Introduction
+## Introduzione
 
 TODO: a small description about the services provided by the University.
 
-## Stay in Contact
+## Rimani in contatto
 
-You can always contact the [University]() or the [Tutor]() for any kind of problem, but if you want stay in contact with people that are using
-this services on [discord](https://discord.gg/SZmjnzTjZ8)
+L' [University]() e i [Tutor]() sono a tua completa disposizione per superare problemi e difficoltà insieme a te. Puoi usufruire del loro aiuto direttamente su [discord](https://discord.gg/SZmjnzTjZ8). Per scoprire gli orari di ricevimento clicca qui.  
