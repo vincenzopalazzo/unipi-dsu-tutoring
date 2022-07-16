@@ -1,13 +1,12 @@
 <div align="center">
-  <h1> DSA Computer Scienze Tutoring </h1>
+  <h1> Tutorato DSA Informatica </h1>
 
   <img src="https://study-eu.s3.amazonaws.com/uploads/university/university-of-pisa-logo.png" />
 
   <p>
-    <strong> University Reference </strong>
+    <strong> Università Contatti  </strong>
   </p>
 </div>
 
-If you experience any problem you can contact the University in the following way:
-
-TODO: adding reference.
+Se la tua esperienza riscontra qualche problematica contatta l'Università nel seguente modo:
+Inserire contatti università
