@@ -4,7 +4,7 @@
   <img src="https://study-eu.s3.amazonaws.com/uploads/university/university-of-pisa-logo.png" />
 
   <p>
-    <strong> Supporto DSA Informatica</strong>
+    <strong> Supporto DSA Informatica </strong>
   </p>
 </div>
 
@@ -12,15 +12,20 @@
 
 - Introduzione
 - Strumenti DSA
-- Rimani in contatto
-- [Contatta un Tutor](/tutor_contact/README.md)
-- [Contatta l'Università](/university_contact/README.md)
-- Domande frequenti 
+- Contatti
+- [Tutor](/tutor_contact/README.md)
+- [Università](/university_contact/README.md)
+- Domande Frequenti
 
 ## Introduzione
 
-TODO: a small description about the services provided by the University.
+Benvenuti nella pagina dedicata al servizio di tutorato per studenti DSA del Dipartimento di Informatica.
+Qui potrai trovare il supporto che stavi cercando: informati sugli strumenti che ti possono supportare e non esitare a contattarci.
 
-## Rimani in contatto
+## Srumenti DSA
 
-L' [University]() e i [Tutor]() sono a tua completa disposizione per superare problemi e difficoltà insieme a te. Puoi usufruire del loro aiuto direttamente su [discord](https://discord.gg/SZmjnzTjZ8). Per scoprire gli orari di ricevimento clicca qui.  
+Fornire una panoramica di strumenti
+
+## Contatti
+
+L' [Università]() e i [Tutor]() sono a completa disposizione per superare insieme a te problemi e difficoltà. Accedi al servizio direttamente su [discord](https://discord.gg/SZmjnzTjZ8). Per scoprire gli orari di ricevimento clicca qui.
