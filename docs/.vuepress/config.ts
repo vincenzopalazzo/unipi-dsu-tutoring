@@ -8,28 +8,27 @@ export default defineUserConfig({
   description: 'TODO',
   logo: 'https://study-eu.s3.amazonaws.com/uploads/university/university-of-pisa-logo.png',
   theme: hopeTheme({
-    // default theme config
     navbar: [
       {
         text: 'Home',
         link: '/',
       },
       {
-        text: "Tools Available",
+        text: "Strumenti DSA",
         link: "/tools"
       },
       {
-        text: "Tutor Contact",
+        text: "Contatti",
         link: "/tutor_contact"
       },
       {
-        text: "University Contact",
+        text: 'Universita',
         link: '/university_contact'
       },
     ],
     plugins: {
       mdEnhance: {
-        enableAll: true,
+        enableAll: false,
       },
     },
   }),

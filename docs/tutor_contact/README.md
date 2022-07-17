@@ -8,11 +8,12 @@
   </p>
 </div>
 
-Se gli orari di ricevimento (inserire link google calendar) non dovessero essere sufficienti, puoi contattare i tutor privatamente per chiedere loro maggior sostegno: 
+Se gli orari di ricevimento (inserire link google calendar) non dovessero essere sufficienti, puoi contattare i tutor privatamente per chiedere loro maggior sostegno:
 
 - Vincenzo Palazzo: Master in Computer Scienze e studente DSA.
     - email: [vpalazz1@asu.edu](mailto:vpalazz1@asu.edu)
     - discord: *vincenzopalazzo#3884*
+    - [prendi un appuntamento](https://calendly.com/vincenzopalazzo/vincent-s-meeting)
 - Claudia Bagnulo: Laurea Magistrale in Informatica Umanistica.
     - email: [c.bagnulo@studenti.unipi.it](mailto:c.bagnulo@studenti.unipi.it)
     - discord: *claudiabagn*
