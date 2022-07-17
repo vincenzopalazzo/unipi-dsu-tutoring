@@ -28,4 +28,4 @@ Fornire una panoramica di strumenti
 
 ## Contatti
 
-L'[Università](/university_contact/README.md) e i [Tutor](/tutor_contact/README.md) sono a completa disposizione per superare insieme a te problemi e difficoltà. Accedi al servizio direttamente su [discord](https://discord.gg/SZmjnzTjZ8). Per scoprire gli orari di ricevimento [aggiungi il nostro google calendar](https://calendar.google.com/calendar/u/0?cid=ZGJlMmlrZ201NWo3aGt1cHVtZWszMTZsZmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+L'[Università](/university_contact/README.md) e i [Tutor](/tutor_contact/README.md) sono a completa disposizione per superare insieme a te problemi e difficoltà. Accedi al servizio direttamente su [discord](https://discord.gg/SZmjnzTjZ8). Per scoprire gli orari di ricevimento [aggiungi il nostro google calendar](https://calendar.google.com/calendar/embed?src=dbe2ikgm55j7hkupumek316lfc%40group.calendar.google.com).
