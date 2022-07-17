@@ -17,3 +17,7 @@ Se gli orari di ricevimento (inserire link google calendar) non dovessero essere
 - Claudia Bagnulo: Laurea Magistrale in Informatica Umanistica.
     - email: [c.bagnulo@studenti.unipi.it](mailto:c.bagnulo@studenti.unipi.it)
     - discord: *claudiabagn*
+    
+- Niko Dalla Noce: Laurea Magistrale in Informatica, Curriculum: Artificial Intelligence.
+  - email: [n.dallanoce@studenti.unipi.it](mailto:n.dallanoce@studenti.unipi.it)
+  - discord: *ugodalla*, telegram: [nikodalla](https://t.me/nikodalla) 
