@@ -22,10 +22,10 @@
 Benvenuti nella pagina dedicata al servizio di tutorato per studenti DSA del Dipartimento di Informatica.
 Qui potrai trovare il supporto che stavi cercando: informati sugli strumenti che ti possono supportare e non esitare a contattarci.
 
-## Srumenti DSA
+## Strumenti DSA
 
 Fornire una panoramica di strumenti
 
 ## Contatti
 
-L' [Università]() e i [Tutor]() sono a completa disposizione per superare insieme a te problemi e difficoltà. Accedi al servizio direttamente su [discord](https://discord.gg/SZmjnzTjZ8). Per scoprire gli orari di ricevimento clicca qui.
+L'[Università](/university_contact/README.md) e i [Tutor](/tutor_contact/README.md) sono a completa disposizione per superare insieme a te problemi e difficoltà. Accedi al servizio direttamente su [discord](https://discord.gg/SZmjnzTjZ8). Per scoprire gli orari di ricevimento [aggiungi il nostro google calendar](https://calendar.google.com/calendar/u/0?cid=ZGJlMmlrZ201NWo3aGt1cHVtZWszMTZsZmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
