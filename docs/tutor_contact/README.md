@@ -13,7 +13,7 @@ Se gli orari di ricevimento disponibili sul nostro [calendario](https://calendar
 - Vincenzo Palazzo: Laurea Magistrale in Informatica, Curriculm: Software (studente DSA).
     - email: [vpalazz1@asu.edu](mailto:vpalazz1@asu.edu)
     - discord: *vincenzopalazzo#3884*
-    - [prendi un appuntamento](https://calendly.com/vincenzopalazzo/vincent-s-meeting)
+    - [prendi un appuntamento](https://cal.com/vincenzo-palazzo)
 
 - Claudia Bagnulo: Laurea Magistrale in Informatica Umanistica.
     - email: [c.bagnulo@studenti.unipi.it](mailto:c.bagnulo@studenti.unipi.it)
