@@ -8,4 +8,7 @@
   </p>
 </div>
 
-TODO: tool list
+Gli strumenti messi a disposizione da parte dell'universita' sono:
+
+- [Natural Readers](https://www.naturalreaders.com/): Lettore schermo multipiattaforma, per avere accesso alla licenza studenti contattare
+lo sportello oppure i [tutor](../tutor_contact/README.md) che possono aiutarti nella richiesta.
