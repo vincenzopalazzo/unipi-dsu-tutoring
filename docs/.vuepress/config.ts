@@ -8,6 +8,7 @@ export default defineUserConfig({
   description: 'TODO',
   logo: 'https://study-eu.s3.amazonaws.com/uploads/university/university-of-pisa-logo.png',
   theme: hopeTheme({
+    sidebar: false,
     navbar: [
       {
         text: 'Home',
