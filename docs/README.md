@@ -11,7 +11,7 @@
 ## Contenuti
 
 - Introduzione
-- [Strumenti DSA](/docs/tools/README.md)
+- [Strumenti DSA](/tools/README.md)
 - Contatti
 - [Tutor](/tutor_contact/README.md)
 - [Università](/university_contact/README.md)
@@ -24,7 +24,7 @@ Qui potrai trovare il supporto che stavi cercando: informati sugli strumenti che
 
 ## Strumenti DSA
 
-Puoi trovare una panoramica degli strumenti compensativi in questa [pagina](/docs/tools/README.md).
+Puoi trovare una panoramica degli strumenti compensativi in questa [pagina](/tools/README.md).
 
 ## Contatti
 
