@@ -23,5 +23,4 @@ Se gli orari di ricevimento disponibili sul nostro [calendario](https://calendar
   - email: [n.dallanoce@studenti.unipi.it](mailto:n.dallanoce@studenti.unipi.it)
   - discord: *ugodalla*, telegram: [nikodalla](https://t.me/nikodalla)
   - orario di ricevimento: martedì (dalle 10 alle 12), venerdì (dalle 14:30 alle 16:30).
-  - **ATTENZIONE!** venerdì 23 settembre non farò tutoraggio.
   - è preferibile concordare gli argomenti prima del ricevimento.
