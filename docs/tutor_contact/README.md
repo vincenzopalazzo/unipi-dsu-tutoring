@@ -24,3 +24,10 @@ Se gli orari di ricevimento disponibili sul nostro [calendario](https://calendar
   - discord: *ugodalla*, telegram: [nikodalla](https://t.me/nikodalla)
   - orario di ricevimento: martedì (dalle 10 alle 12), venerdì (dalle 10 alle 12).
   - è preferibile concordare gli argomenti prima del ricevimento.
+  
+ - Lia Trapanese: Laurea Magistrale in Informatica, Curriculum: Data Science and Business Informatics.
+  - email: [l.trapanese@studenti.unipi.it](mailto:l.trapanese@studenti.unipi.it)
+  - discord: *lia#2846*, telegram: [liatrapanese](https://t.me/liatrapanese)
+  - orario di ricevimento: mercoledì (dalle 16 alle 18), venerdì (dalle 16 alle 18).
+ 
+
