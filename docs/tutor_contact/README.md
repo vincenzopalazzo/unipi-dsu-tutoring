@@ -10,11 +10,6 @@
 
 Se gli orari di ricevimento disponibili sul nostro [calendario](https://calendar.google.com/calendar/embed?src=dbe2ikgm55j7hkupumek316lfc%40group.calendar.google.com) non dovessero essere sufficienti, puoi contattare i tutor privatamente per chiedere loro maggior sostegno:
 
-- Vincenzo Palazzo: Laurea Magistrale in Informatica, Curriculm: Software (studente DSA).
-    - email: [vpalazz1@asu.edu](mailto:vpalazz1@asu.edu)
-    - discord: *vincenzopalazzo#3884*
-    - [prendi un appuntamento](https://cal.com/team/unipi-dsa-tutor)
-
 - Claudia Bagnulo: Laurea Magistrale in Informatica Umanistica.
     - email: [c.bagnulo@studenti.unipi.it](mailto:c.bagnulo@studenti.unipi.it)
     - discord: *claudiabagn*
