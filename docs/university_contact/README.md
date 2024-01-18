@@ -16,6 +16,5 @@ I contatti dell'universita' per quando riguarda i problem di disturbo dell appre
   - Susanna Pelagatti: [sito ufficiale](http://pages.di.unipi.it/pelagatti)
 - DSA Tutor:
   - [Contatti](../tutor_contact/README.md)
-  - [Discord server](https://discord.com/invite/SZmjnzTjZ8)
 - Supporto Psicologico
   - [Orari di appuntamento](https://drive.google.com/file/d/1ioMZ3OkFOW7E4W9iIss-GSxp_JZlDc2a/view?usp=sharing) 
